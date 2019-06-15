@@ -6,4 +6,4 @@ Has someone you love, inadvertently and foolishly entered their personal data in
 
 #### Global
 Reading this using a translator? This script can be eaisly switched to your region/language. 
-Change `zh_TW` in `fake = Faker('zh_TW')` to another locale, options available on the left [in this linked text to Faker docs.](https://faker.readthedocs.io/en/stable/locales.html)
+Change ```zh_TW``` in ```fake = Faker('zh_TW')``` to another locale, options available on the left [in this linked text to Faker docs.](https://faker.readthedocs.io/en/stable/locales.html)
